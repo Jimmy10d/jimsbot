@@ -1,0 +1,4 @@
+{
+ "ADMIN_EMAIL": "jimmy@student.bakrie.ac.id",
+ "PHP_EXTENSIONS": ["mbstring", "mysqli", "mcrypt", "gd", "curl"]
+}
